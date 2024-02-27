@@ -1,0 +1,12 @@
+ENTRADA 1
+Nom i cognom: aleix
+Edat: 21
+Nota: 8,0
+FCT: false
+--------------------
+ENTRADA 2
+Nom i cognom: joan
+Edat: 34
+Nota: 5,3
+FCT: true
+--------------------
